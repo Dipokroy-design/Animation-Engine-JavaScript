@@ -44,7 +44,6 @@ box
 - **How to Use**: Provides clear instructions on how to clone the repo, set it up, and start using the engine.
 - **Demo**: Link to a live demo (if you host it somewhere like GitHub Pages).
 - **Contributing**: Encourages contributions and improvements.
-- **License**: If you plan to release it as open-source, you can include the MIT License or any other license you prefer.
 
 ---
 
